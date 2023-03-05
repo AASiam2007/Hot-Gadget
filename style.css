@@ -1,0 +1,92 @@
+.logoimga{
+    width: 150px;
+}
+.bgb{
+    background-color: #FFFFFF;
+}
+.seca{
+    background-color: #FFFFFF;
+    background-image: url(image/bg-2.png);
+    background-attachment: fixed;
+}
+.navg{
+    margin-left: 600px;
+}
+.navsp{
+    margin-left: 5px;
+}
+
+
+.tv{
+    padding-top: 70px;
+}
+.bcol{
+    background-color:black;
+    border-radius: 10px;
+    color: white;
+    margin: 10px;
+    padding: 5px;
+    
+}
+.imgc{
+    width: 80%;
+}
+.b{
+    background-color: #FFFFFF;
+}
+.alll{
+    text-align: right;
+    color: rgb(255, 145, 2);
+}
+.cardimg{
+    width: 300px;
+    padding-left: 30px;
+}
+.cardt{
+    text-align: center;
+}
+.cardb{
+    background-color: black;
+    color: white;
+    margin-left: 38%;
+}
+.bi{
+    background-color: rgb(255, 145, 2);
+    width: 100px;
+    height: 8px;
+    border-radius: 5px;
+    margin-left: 46%;
+}
+.bba{
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.imgl{
+    width: 600px;
+}
+.bimg{
+    width: 150px;
+}
+.midp{
+    padding-top: 150px;
+}
+.bbb{
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.midw{
+    padding-top: 10px;
+}
+.bbc{
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.midq{
+    padding-top: 50px;
+}
